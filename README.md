@@ -4,11 +4,13 @@ Lucas Martín Treser es mi nombre, vivo en la ciudad de [Mar del Plata](http://w
 
 ![Mar del Plata desde el aire, verano de 2019. Foto infobae.com.](Verano-2019-Mar-del-Plata.jpg)
 
-# Teaching
+## Trabajos
 
-# Trainings
-# Contributions
-# Initiatives
-# Publications
+Podes ver parte de mis trabajos realizados a través del tiempo, la mayoría relacionados a la electrónica, programación y educación, haciendo clic [**en este enlace**](https://www.automatismos-mdq.com.ar/blog/portfolio) o visitar mis repositorios: 
 
-## Conferences
+- [GitLab](https://gitlab.com/lmtreser), con fines educativos.
+- [GitHub](https://github.com/lmtreser), uso profesional.
+
+## Contacto
+
+Por sugerencias, criticas, comentarios, propuestas de trabajo o publicidad podes enviar directamente un correo electrónico a [lmtreser@gmail.com](mailto:lmtreser@gmail.com).
