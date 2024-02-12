@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>publicaciones on Lucas Martín Treser</title>
+    <link>https://lmtreser.github.io/tags/publicaciones/</link>
+    <description>Recent content in publicaciones on Lucas Martín Treser</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 11 Feb 2024 17:00:16 -0300</lastBuildDate><atom:link href="https://lmtreser.github.io/tags/publicaciones/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portfolio</title>
+      <link>https://lmtreser.github.io/portfolio/</link>
+      <pubDate>Sun, 11 Feb 2024 17:00:16 -0300</pubDate>
+      
+      <guid>https://lmtreser.github.io/portfolio/</guid>
+      <description>&lt;p&gt;A continuación un listado de trabajos, participaciones, experimentos y más que realicé a través de los años.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
