@@ -2,7 +2,7 @@ Mi nombre es Lucas Martín Treser, vivo en la ciudad de [Mar del Plata](http://w
 
 Desde enero de 2008, administro mi blog ["Automatismos Mar del Plata"](https://www.automatismos-mdq.com.ar/) donde me encargo de todo, desde la creación y edición de contenido hasta el mantenimiento del software utilizando WordPress y MySQL. Durante un tiempo fui moderador del extinto foro de electrónica [µControl](http://www.ucontrol.com.ar/), y colaborador en el diseño y diagramación de la revista digital µControl.
 
-![Mar del Plata desde el aire, verano de 2019. Foto infobae.com.](../images/Verano-2019-Mar-del-Plata.jpg#center) 
+![Mar del Plata desde el aire, verano de 2019. Foto infobae.com.](images/Verano-2019-Mar-del-Plata.jpg#center) 
 > Mar del Plata desde el aire, verano de 2019. Foto *infobae.com*.
 
 Me apasiona el desarrollo de software, especialmente en el ámbito de los microcontroladores, y tengo experiencia en la construcción y reparación de dispositivos electrónicos. Además estoy interesado en colaborar en proyectos de código abierto, ya sea en la creación de prototipos físicos o en el desarrollo de software.
