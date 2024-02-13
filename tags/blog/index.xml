@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Lucas Martín Treser</title>
+    <link>https://lmtreser.github.io/tags/blog/</link>
+    <description>Recent content in blog on Lucas Martín Treser</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 03 Feb 2024 08:00:00 +0000</lastBuildDate><atom:link href="https://lmtreser.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automatismos Mar del Plata</title>
+      <link>https://lmtreser.github.io/automatismos/</link>
+      <pubDate>Sat, 03 Feb 2024 08:00:00 +0000</pubDate>
+      
+      <guid>https://lmtreser.github.io/automatismos/</guid>
+      <description>&lt;p&gt;Automatismos Mar del Plata es un espacio donde encontrarás notas y artículos útiles sobre electrónica, microcontroladores, tecnología, robótica y mucho más.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
