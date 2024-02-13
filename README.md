@@ -11,7 +11,7 @@ Mis intereses son diversos, abarcando desde la educación hasta la retrocomputac
 
 ## Trabajos
 
-A través del tiempo, realicé una amplia variedad de trabajos relacionados con la electrónica, la programación y la educación. Podes explorar parte de mis proyectos visitando mi ["Portfolio"](../portfolio), o visitar mis repositorios en línea:
+A través del tiempo, realicé una amplia variedad de trabajos relacionados con la electrónica, la programación y la educación. Podes explorar parte de mis proyectos visitando mi ["Portfolio"](https://lmtreser.github.io/portfolio/), o visitar mis repositorios en línea:
 
 - [GitLab](https://gitlab.com/lmtreser), con fines educativos.
 - [GitHub](https://github.com/lmtreser), uso profesional.
