@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bio on Lucas Martín Treser</title>
+    <title>Bio on Lucas Martín Treser</title>
     <link>https://lmtreser.github.io/tags/bio/</link>
-    <description>Recent content in bio on Lucas Martín Treser</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Bio on Lucas Martín Treser</description>
+    <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 01 Feb 2024 08:00:00 +0000</lastBuildDate><atom:link href="https://lmtreser.github.io/tags/bio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Feb 2024 08:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lmtreser.github.io/tags/bio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Acerca</title>
       <link>https://lmtreser.github.io/about/</link>
       <pubDate>Thu, 01 Feb 2024 08:00:00 +0000</pubDate>
-      
       <guid>https://lmtreser.github.io/about/</guid>
       <description>&lt;p&gt;Mi nombre es Lucas Martín Treser, vivo en la ciudad de &lt;a href=&#34;http://www.mardelplata.gov.ar/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mar del Plata&lt;/a&gt; (provincia de Buenos Aires, Argentina). Soy técnico electrónico, técnico superior en tecnología y docente.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

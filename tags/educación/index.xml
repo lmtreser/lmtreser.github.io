@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>educación on Lucas Martín Treser</title>
+    <title>Educación on Lucas Martín Treser</title>
     <link>https://lmtreser.github.io/tags/educaci%C3%B3n/</link>
-    <description>Recent content in educación on Lucas Martín Treser</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Educación on Lucas Martín Treser</description>
+    <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 02 Feb 2024 08:00:00 +0000</lastBuildDate><atom:link href="https://lmtreser.github.io/tags/educaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Feb 2024 08:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lmtreser.github.io/tags/educaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Portfolio</title>
       <link>https://lmtreser.github.io/portfolio/</link>
       <pubDate>Fri, 02 Feb 2024 08:00:00 +0000</pubDate>
-      
       <guid>https://lmtreser.github.io/portfolio/</guid>
       <description>&lt;p&gt;Mi portfolio trata de recopilar mis trabajos a lo largo de los años: publicaciones, proyectos educativos y eventos donde he compartido mi conocimiento en electrónica y tecnología.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
